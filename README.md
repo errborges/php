@@ -7,3 +7,4 @@
 - git config --global user.name "Seu nome"; (só faz uma vez isso)
 - git config --global user.email "mesmo email do login do github";  (só faz uma vez isso)
 - git push origin master; (pode solicitar usuário e senha do github)
+- git pull origin master; (puxar do remote)
